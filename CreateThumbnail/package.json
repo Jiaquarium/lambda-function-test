@@ -1,0 +1,11 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "Testing out AWS lambda functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Gu",
+  "license": "UNLICENSED"
+}
